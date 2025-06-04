@@ -13,4 +13,6 @@ Acest model are ca scop prezicerea meciurilor de MMA din cadrul UFC.
 
 ## To do
 
-- data scraper
+- improve model
+- cleanup data files
+- notebook for presentation
