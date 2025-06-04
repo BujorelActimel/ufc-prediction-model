@@ -13,6 +13,6 @@ Acest model are ca scop prezicerea meciurilor de MMA din cadrul UFC.
 
 ## To do
 
-- improve model
-- cleanup data files
+- improve model [x]
+- cleanup data files 
 - notebook for presentation

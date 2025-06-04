@@ -10,7 +10,7 @@ import os
 
 # Import your existing model and the working scraper
 try:
-    from model import UFCFightPredictor
+    from improved_model import UFCFightPredictor
     print("✓ UFC Predictor model imported successfully")
 except ImportError as e:
     print(f"✗ Error importing UFC Predictor: {e}")
