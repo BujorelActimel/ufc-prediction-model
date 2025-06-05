@@ -1,0 +1,8 @@
+{
+  "model_type": "ensemble",
+  "data_file": "data/complete_ufc_data.csv",
+  "data_hash": "75a9f1bbf911a8c8c1e7f7ff41ca9f95",
+  "cached_at": "2025-06-05T08:46:56.332699",
+  "fighter_count": 2426,
+  "feature_count": 28
+}
