@@ -1,5 +1,8 @@
+#!/usr/bin/env python3
 """
-UFC Model Test Script - Only tests on completed fights with known results
+Test UFC Model on 2024-2025 Fights
+Uses data/fights_2024_2025.csv with structure:
+event_name,event_date,weight_class,fighter1,fighter2,method,round,outcome,timestamp
 """
 
 import pandas as pd
@@ -8,365 +11,360 @@ from datetime import datetime
 import sys
 import os
 
-# Import your existing model and the working scraper
 try:
-    from improved_model import UFCFightPredictor
-    print("✓ UFC Predictor model imported successfully")
+    from cached_prediction_tool import CachedPredictionTool
+    print("✓ Cached prediction tool imported")
 except ImportError as e:
-    print(f"✗ Error importing UFC Predictor: {e}")
-    print("Make sure model.py is in the same directory")
-    sys.exit(1)
-
-try:
-    from scraper import UFCStatsScraper
-    print("✓ Working UFC Scraper imported successfully")
-except ImportError as e:
-    print(f"✗ Error importing UFC Scraper: {e}")
-    print("Make sure you saved the working scraper as 'scraper.py'")
+    print(f"✗ Error importing cached tool: {e}")
     sys.exit(1)
 
 
-def test_model_on_completed_fights():
-    """
-    Test the UFC model only on completed fights with known results
-    """
+def test_model_on_2024_2025_fights():
+    """Test the cached model on 2024-2025 fights"""
     
-    print("="*60)
-    print("UFC FIGHT PREDICTOR - MODEL TESTING (COMPLETED FIGHTS ONLY)")
-    print("="*60)
+    print("🥊 UFC MODEL TEST - 2024-2025 FIGHTS")
+    print("="*50)
     
-    # Step 1: Initialize and train the model
-    print("\n1. Loading and training UFC prediction model...")
-    
-    try:
-        predictor = UFCFightPredictor()
-        
-        # Check if data file exists
-        data_file = "data/complete_ufc_data.csv"
-        if not os.path.exists(data_file):
-            print(f"✗ Data file not found: {data_file}")
-            print("Please ensure the data file is in the correct location")
-            return
-        
-        # Load and train model
-        training_data = predictor.load_and_prepare_data(data_file)
-        accuracy = predictor.train_model(training_data, model_type='random_forest')
-        
-        print(f"✓ Model trained successfully with {accuracy:.1%} training accuracy")
-        
-    except Exception as e:
-        print(f"✗ Error training model: {e}")
+    # Load the cached model
+    print("1. Loading cached model...")
+    tool = CachedPredictionTool()
+    if not tool.load_model():
+        print("❌ Failed to load cached model")
+        print("💡 Try running: python cached_prediction_tool.py first")
         return
     
-    # Step 2: Scrape only completed fights
-    print("\n2. Scraping completed UFC fights (skipping upcoming events)...")
+    print("✅ Model loaded successfully!")
     
-    try:
-        scraper = UFCStatsScraper(existing_csv_path=data_file)
-        
-        # Get recent completed events only
-        recent_fights = scraper.scrape_recent_fights(max_events=30)
-        
-        if recent_fights.empty:
-            print("✗ No completed fights found")
-            return
-        
-        print(f"✓ Scraped {len(recent_fights)} completed fights")
-        
-        # Show sample of what we got
-        completed_with_winners = recent_fights[recent_fights['winner'] != 'Unknown']
-        print(f"✓ Found {len(completed_with_winners)} fights with known winners")
-        
-        if completed_with_winners.empty:
-            print("✗ No fights with known winners found for testing")
-            return
-        
-        # Find fights missing from training data
-        missing_fights = scraper.find_missing_fights(completed_with_winners)
-        
-        if missing_fights.empty:
-            print("✓ No missing completed fights found - using recent completed fights instead")
-            test_fights = completed_with_winners.head(10)  # Use recent fights for testing
-        else:
-            print(f"✓ Found {len(missing_fights)} missing completed fights for testing")
-            test_fights = missing_fights
-        
-    except Exception as e:
-        print(f"✗ Error scraping fights: {e}")
+    # Load the 2024-2025 fights dataset
+    data_file = "data/fights_2024_2025.csv"
+    
+    if not os.path.exists(data_file):
+        print(f"❌ Data file not found: {data_file}")
+        print("💡 Make sure you have the 2024-2025 fights file in the data/ directory")
         return
     
-    # Step 3: Create predictions for test fights
-    print(f"\n3. Creating predictions for {len(test_fights)} completed fights...")
+    print(f"\n2. Loading 2024-2025 fight data...")
     
     try:
-        test_predictions = scraper.create_test_predictions(test_fights, predictor)
-        
-        if test_predictions.empty:
-            print("✗ No predictions could be created")
-            return
-        
-        print(f"✓ Created {len(test_predictions)} predictions")
-        
-        # Save predictions
-        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-        predictions_file = f"ufc_model_test_completed_{timestamp}.csv"
-        test_predictions.to_csv(predictions_file, index=False)
-        print(f"✓ Predictions saved to {predictions_file}")
-        
+        df = pd.read_csv(data_file)
+        print(f"✅ Loaded {len(df):,} total fights from 2024-2025")
     except Exception as e:
-        print(f"✗ Error creating predictions: {e}")
+        print(f"❌ Error loading data: {e}")
         return
     
-    # Step 4: Analyze results
-    print("\n4. Analyzing prediction results...")
+    # Show data structure
+    print(f"\n📊 Dataset structure:")
+    print(f"   Columns: {list(df.columns)}")
+    print(f"   Date range: {df['event_date'].min()} to {df['event_date'].max()}")
     
-    try:
-        analyze_prediction_results(test_predictions)
-        
-    except Exception as e:
-        print(f"✗ Error analyzing results: {e}")
+    # Show sample events
+    top_events = df['event_name'].value_counts().head(5)
+    print(f"\n📅 Sample 2024-2025 events:")
+    for event, count in top_events.items():
+        print(f"   • {event}: {count} fights")
+    
+    # Filter out draws and no contests
+    print(f"\n3. Filtering for clear outcomes...")
+    
+    # Show outcome distribution
+    outcome_counts = df['outcome'].value_counts()
+    print(f"📊 Outcome distribution:")
+    for outcome, count in outcome_counts.items():
+        print(f"   {outcome}: {count} fights")
+    
+    # Keep only clear wins (fighter1 or fighter2 wins)
+    clear_outcomes = df[df['outcome'].isin(['fighter1', 'fighter2'])].copy()
+    
+    print(f"✅ Using {len(clear_outcomes)} fights with clear outcomes")
+    print(f"❌ Skipping {len(df) - len(clear_outcomes)} draws/no contests")
+    
+    if clear_outcomes.empty:
+        print("❌ No fights with clear outcomes found")
         return
     
-    print("\n" + "="*60)
-    print("MODEL TESTING COMPLETE!")
-    print("="*60)
-
-
-def analyze_prediction_results(predictions_df):
-    """
-    Analyze the prediction results and show performance metrics
-    """
+    # Make predictions on all clear fights
+    print(f"\n4. Making predictions on 2024-2025 fights...")
     
-    # Filter predictions with known outcomes
-    valid_predictions = predictions_df[predictions_df['correct_prediction'].notna()]
+    predictions = []
+    successful = 0
+    fighter_not_found = 0
+    prediction_errors = 0
+    
+    for i, (_, fight) in enumerate(clear_outcomes.iterrows()):
+        if (i + 1) % 50 == 0:
+            print(f"   Progress: {i+1}/{len(clear_outcomes)} fights...")
+        
+        try:
+            fighter1 = fight['fighter1']
+            fighter2 = fight['fighter2']
+            outcome = fight['outcome']  # 'fighter1' or 'fighter2'
+            
+            # Determine actual winner based on outcome
+            if outcome == 'fighter1':
+                actual_winner = fighter1
+            elif outcome == 'fighter2':
+                actual_winner = fighter2
+            else:
+                continue  # Skip if unclear
+            
+            # Skip if missing fighter names
+            if pd.isna(fighter1) or pd.isna(fighter2) or not fighter1 or not fighter2:
+                continue
+            
+            # Find fighters in model database
+            f1_matches = tool.predictor.search_fighters(str(fighter1))
+            f2_matches = tool.predictor.search_fighters(str(fighter2))
+            
+            if not f1_matches:
+                fighter_not_found += 1
+                continue
+            
+            if not f2_matches:
+                fighter_not_found += 1
+                continue
+            
+            # Use best matches
+            f1_name = f1_matches[0]
+            f2_name = f2_matches[0]
+            
+            # Make prediction
+            result = tool.predictor.predict_fight(f1_name, f2_name)
+            
+            # Map actual winner to model fighter names
+            actual_mapped = None
+            if actual_winner == fighter1:
+                actual_mapped = f1_name
+            elif actual_winner == fighter2:
+                actual_mapped = f2_name
+            
+            # Check if prediction is correct
+            correct = (result['predicted_winner'] == actual_mapped) if actual_mapped else None
+            
+            prediction_data = {
+                'event_name': fight['event_name'],
+                'event_date': fight['event_date'],
+                'weight_class': fight.get('weight_class', 'Unknown'),
+                'original_fighter1': fighter1,
+                'original_fighter2': fighter2,
+                'mapped_fighter1': f1_name,
+                'mapped_fighter2': f2_name,
+                'outcome': outcome,
+                'actual_winner_original': actual_winner,
+                'actual_winner_mapped': actual_mapped,
+                'predicted_winner': result['predicted_winner'],
+                'confidence': result['confidence'],
+                'fighter1_probability': result['fighter1_win_probability'],
+                'fighter2_probability': result['fighter2_win_probability'],
+                'correct_prediction': correct,
+                'method': fight.get('method', 'Unknown'),
+                'round': fight.get('round', 'Unknown')
+            }
+            
+            predictions.append(prediction_data)
+            successful += 1
+            
+        except Exception as e:
+            prediction_errors += 1
+            continue
+    
+    # Analyze results
+    print(f"\n5. Analysis Results:")
+    print("="*40)
+    
+    print(f"📊 Processing Summary:")
+    print(f"   Total 2024-2025 fights: {len(clear_outcomes)}")
+    print(f"   Successful predictions: {successful}")
+    print(f"   Fighter not found: {fighter_not_found}")
+    print(f"   Prediction errors: {prediction_errors}")
+    
+    if not predictions:
+        print("❌ No predictions made")
+        return
+    
+    # Convert to DataFrame for analysis
+    df_predictions = pd.DataFrame(predictions)
+    
+    # Filter for valid predictions (where we could map the winner)
+    valid_predictions = df_predictions[df_predictions['correct_prediction'].notna()]
     
     if valid_predictions.empty:
-        print("⚠️  No predictions with known outcomes to analyze")
-        print("\nAll Predictions Made:")
-        display_predictions(predictions_df)
+        print("❌ No valid predictions with clear outcomes")
         return
     
-    total_predictions = len(valid_predictions)
-    correct_predictions = valid_predictions['correct_prediction'].sum()
-    accuracy = correct_predictions / total_predictions
+    # Calculate accuracy
+    total_valid = len(valid_predictions)
+    correct_count = valid_predictions['correct_prediction'].sum()
+    accuracy = correct_count / total_valid
     
-    print(f"\n📊 PERFORMANCE SUMMARY:")
-    print(f"   Total Test Predictions: {total_predictions}")
-    print(f"   Correct Predictions: {correct_predictions}")
-    print(f"   Test Accuracy: {accuracy:.1%}")
+    print(f"\n🎯 ACCURACY RESULTS:")
+    print(f"   Valid predictions: {total_valid}")
+    print(f"   Correct predictions: {correct_count}")
+    print(f"   Overall accuracy: {accuracy:.1%}")
     
     # Confidence-based analysis
-    high_confidence = valid_predictions[valid_predictions['confidence'] > 0.7]
-    if not high_confidence.empty:
-        high_conf_accuracy = high_confidence['correct_prediction'].mean()
-        print(f"   High Confidence Accuracy (>70%): {high_conf_accuracy:.1%} ({len(high_confidence)} predictions)")
+    print(f"\n📈 CONFIDENCE BREAKDOWN:")
     
-    medium_confidence = valid_predictions[
-        (valid_predictions['confidence'] > 0.6) & 
-        (valid_predictions['confidence'] <= 0.7)
+    confidence_ranges = [
+        (0.8, 1.0, "Very High (80-100%)"),
+        (0.7, 0.8, "High (70-80%)"),
+        (0.6, 0.7, "Medium (60-70%)"),
+        (0.5, 0.6, "Low (50-60%)")
     ]
-    if not medium_confidence.empty:
-        med_conf_accuracy = medium_confidence['correct_prediction'].mean()
-        print(f"   Medium Confidence Accuracy (60-70%): {med_conf_accuracy:.1%} ({len(medium_confidence)} predictions)")
     
-    low_confidence = valid_predictions[valid_predictions['confidence'] <= 0.6]
-    if not low_confidence.empty:
-        low_conf_accuracy = low_confidence['correct_prediction'].mean()
-        print(f"   Low Confidence Accuracy (≤60%): {low_conf_accuracy:.1%} ({len(low_confidence)} predictions)")
+    for min_conf, max_conf, label in confidence_ranges:
+        subset = valid_predictions[
+            (valid_predictions['confidence'] >= min_conf) & 
+            (valid_predictions['confidence'] < max_conf)
+        ]
+        
+        if not subset.empty:
+            subset_correct = subset['correct_prediction'].sum()
+            subset_total = len(subset)
+            subset_accuracy = subset_correct / subset_total
+            
+            print(f"   {label}: {subset_correct}/{subset_total} ({subset_accuracy:.1%})")
     
     # Weight class analysis
-    print(f"\n📈 WEIGHT CLASS BREAKDOWN:")
-    weight_class_performance = valid_predictions.groupby('weight_class').agg({
+    print(f"\n🏆 WEIGHT CLASS PERFORMANCE:")
+    
+    weight_performance = valid_predictions.groupby('weight_class').agg({
         'correct_prediction': ['count', 'sum', 'mean']
     }).round(3)
     
-    for weight_class in weight_class_performance.index:
-        count = weight_class_performance.loc[weight_class, ('correct_prediction', 'count')]
-        correct = weight_class_performance.loc[weight_class, ('correct_prediction', 'sum')]
-        accuracy = weight_class_performance.loc[weight_class, ('correct_prediction', 'mean')]
-        print(f"   {weight_class}: {correct}/{count} ({accuracy:.1%})")
-    
-    # Show detailed results
-    print(f"\n📋 DETAILED PREDICTIONS:")
-    display_predictions(valid_predictions)
-    
-    # Show incorrect predictions for analysis
-    incorrect_predictions = valid_predictions[valid_predictions['correct_prediction'] == False]
-    if not incorrect_predictions.empty:
-        print(f"\n❌ INCORRECT PREDICTIONS ({len(incorrect_predictions)}) - ANALYZE THESE:")
-        for _, pred in incorrect_predictions.iterrows():
-            print(f"\n   Event: {pred['event_name']}")
-            print(f"   Fight: {pred['mapped_fighter1']} vs {pred['mapped_fighter2']}")
-            print(f"   Predicted: {pred['predicted_winner']} ({pred['confidence']:.1%} confidence)")
-            print(f"   Actual: {pred['actual_winner_mapped']} (Original: {pred['actual_winner_original']})")
-            print(f"   Method: {pred['method']}, Round: {pred['round']}")
-            print(f"   Weight Class: {pred['weight_class']}")
-
-
-def display_predictions(predictions_df, max_display=15):
-    """
-    Display prediction results in a readable format
-    """
-    
-    for i, (_, pred) in enumerate(predictions_df.head(max_display).iterrows()):
-        result_emoji = "✅" if pred.get('correct_prediction') == True else "❌" if pred.get('correct_prediction') == False else "❓"
-        
-        print(f"\n{result_emoji} {pred['event_name']} ({pred['event_date']})")
-        print(f"   {pred['mapped_fighter1']} vs {pred['mapped_fighter2']}")
-        print(f"   Predicted: {pred['predicted_winner']} ({pred['confidence']:.1%})")
-        
-        if pd.notna(pred.get('actual_winner_mapped')):
-            print(f"   Actual: {pred['actual_winner_mapped']}")
-        
-        print(f"   Probabilities: {pred['mapped_fighter1']} {pred['fighter1_probability']:.1%}, {pred['mapped_fighter2']} {pred['fighter2_probability']:.1%}")
-        
-        if pred.get('weight_class') and pred.get('weight_class') != 'Unknown':
-            print(f"   Details: {pred['weight_class']}, {pred['method']}, Round {pred['round']}")
-    
-    if len(predictions_df) > max_display:
-        print(f"\n... and {len(predictions_df) - max_display} more predictions")
-
-
-def quick_scrape_test():
-    """
-    Quick test to see what fights are available
-    """
-    print("Quick test of completed fights scraping...")
-    print("=" * 50)
-    
-    try:
-        scraper = UFCStatsScraper(existing_csv_path="data/complete_ufc_data.csv")
-        
-        # Get recent events (completed only)
-        events = scraper.get_recent_events(max_pages=1, only_completed=True)
-        
-        print(f"Found {len(events)} completed events:")
-        for i, event in enumerate(events[:5]):
-            print(f"  {i+1}. {event['name']} ({event['date']}) - {event['location']}")
-        
-        if events:
-            # Test first event
-            print(f"\nTesting fights from: {events[0]['name']}")
-            fights = scraper.get_fight_details(events[0]['url'])
+    for weight_class in weight_performance.index:
+        if weight_class != 'Unknown':
+            count = weight_performance.loc[weight_class, ('correct_prediction', 'count')]
+            correct_wc = weight_performance.loc[weight_class, ('correct_prediction', 'sum')]
+            accuracy_wc = weight_performance.loc[weight_class, ('correct_prediction', 'mean')]
             
-            completed_fights = [f for f in fights if f['winner'] != 'Unknown']
-            upcoming_fights = [f for f in fights if f['winner'] == 'Unknown']
-            
-            print(f"  Completed fights: {len(completed_fights)}")
-            print(f"  Upcoming fights: {len(upcoming_fights)}")
-            
-            if completed_fights:
-                print(f"\n  Sample completed fights:")
-                for fight in completed_fights[:3]:
-                    print(f"    {fight['fighter1']} vs {fight['fighter2']} -> {fight['winner']}")
-                    print(f"    Method: {fight['method']}, Round: {fight['round']}")
-            
-            if upcoming_fights:
-                print(f"\n  Sample upcoming fights (will be skipped):")
-                for fight in upcoming_fights[:3]:
-                    print(f"    {fight['fighter1']} vs {fight['fighter2']} -> {fight['winner']}")
-        
-    except Exception as e:
-        print(f"Error in quick test: {e}")
-
-
-def manual_prediction_test():
-    """
-    Manual test with known recent fights
-    """
-    print("\nManual prediction test...")
-    print("=" * 30)
+            if count >= 3:  # Only show classes with enough data
+                status = "🔥" if accuracy_wc > 0.7 else "👍" if accuracy_wc > 0.6 else "⚠️"
+                print(f"   {status} {weight_class}: {correct_wc}/{count} ({accuracy_wc:.1%})")
     
-    try:
-        # Load model
-        predictor = UFCFightPredictor()
-        training_data = predictor.load_and_prepare_data("data/complete_ufc_data.csv")
-        predictor.train_model(training_data)
+    # Monthly performance analysis
+    print(f"\n📅 PERFORMANCE BY TIME PERIOD:")
+    
+    # Convert event_date to datetime for analysis
+    valid_predictions['event_datetime'] = pd.to_datetime(valid_predictions['event_date'], errors='coerce')
+    valid_with_dates = valid_predictions.dropna(subset=['event_datetime'])
+    
+    if not valid_with_dates.empty:
+        # Group by year-month
+        valid_with_dates['year_month'] = valid_with_dates['event_datetime'].dt.to_period('M')
+        monthly_performance = valid_with_dates.groupby('year_month').agg({
+            'correct_prediction': ['count', 'sum', 'mean']
+        }).round(3)
         
-        # Test with some recent well-known fights (you can adjust these)
-        test_fights = [
-            ("Jon Jones", "Stipe Miocic", "Jon Jones"),  # UFC 309
-            ("Alex Pereira", "Khalil Rountree Jr.", "Alex Pereira"),  # Recent fight
-            ("Islam Makhachev", "Arman Tsarukyan", "Islam Makhachev"),  # UFC 311
-            ("Merab Dvalishvili", "Sean O'Malley", "Merab Dvalishvili"),  # Recent bantamweight
-        ]
-        
-        print("Testing predictions on known recent fights:")
-        correct = 0
-        total = 0
-        
-        for fighter1, fighter2, actual_winner in test_fights:
-            try:
-                # Search for fighters
-                f1_matches = predictor.search_fighters(fighter1)
-                f2_matches = predictor.search_fighters(fighter2)
-                
-                if f1_matches and f2_matches:
-                    f1_name = f1_matches[0]
-                    f2_name = f2_matches[0]
-                    
-                    result = predictor.predict_fight(f1_name, f2_name)
-                    predicted_winner = result['predicted_winner']
-                    
-                    # Determine if correct
-                    is_correct = False
-                    if actual_winner.lower() in f1_name.lower() and predicted_winner == f1_name:
-                        is_correct = True
-                    elif actual_winner.lower() in f2_name.lower() and predicted_winner == f2_name:
-                        is_correct = True
-                    
-                    emoji = "✅" if is_correct else "❌"
-                    total += 1
-                    if is_correct:
-                        correct += 1
-                    
-                    print(f"\n{emoji} {f1_name} vs {f2_name}")
-                    print(f"   Predicted: {predicted_winner} ({result['confidence']:.1%})")
-                    print(f"   Actual: {actual_winner}")
-                    print(f"   Probabilities: {f1_name} {result['fighter1_win_probability']:.1%}, {f2_name} {result['fighter2_win_probability']:.1%}")
-                
-            except Exception as e:
-                print(f"❌ Error testing {fighter1} vs {fighter2}: {e}")
-        
-        if total > 0:
-            print(f"\nManual Test Accuracy: {correct}/{total} ({correct/total:.1%})")
-        
-    except Exception as e:
-        print(f"Error in manual test: {e}")
+        for period in monthly_performance.index:
+            count = monthly_performance.loc[period, ('correct_prediction', 'count')]
+            correct_period = monthly_performance.loc[period, ('correct_prediction', 'sum')]
+            accuracy_period = monthly_performance.loc[period, ('correct_prediction', 'mean')]
+            
+            if count >= 5:  # Only show months with enough fights
+                status = "🔥" if accuracy_period > 0.7 else "👍" if accuracy_period > 0.6 else "⚠️"
+                print(f"   {status} {period}: {correct_period}/{count} ({accuracy_period:.1%})")
+    
+    # Show best predictions
+    print(f"\n✅ BEST PREDICTIONS (High Confidence + Correct):")
+    best_predictions = valid_predictions[
+        (valid_predictions['correct_prediction'] == True) & 
+        (valid_predictions['confidence'] > 0.7)
+    ].nlargest(5, 'confidence')
+    
+    for _, pred in best_predictions.iterrows():
+        print(f"   🎯 {pred['mapped_fighter1']} vs {pred['mapped_fighter2']}")
+        print(f"      ✅ Predicted: {pred['predicted_winner']} ({pred['confidence']:.1%})")
+        print(f"      📅 {pred['event_name']} ({pred['event_date']})")
+    
+    # Show worst predictions
+    print(f"\n❌ MISSED HIGH-CONFIDENCE PREDICTIONS:")
+    worst_predictions = valid_predictions[
+        (valid_predictions['correct_prediction'] == False) & 
+        (valid_predictions['confidence'] > 0.65)
+    ].nlargest(3, 'confidence')
+    
+    for _, pred in worst_predictions.iterrows():
+        print(f"   💥 {pred['mapped_fighter1']} vs {pred['mapped_fighter2']}")
+        print(f"      ❌ Predicted: {pred['predicted_winner']} ({pred['confidence']:.1%})")
+        print(f"      ✅ Actual: {pred['actual_winner_mapped']}")
+        print(f"      📅 {pred['event_name']} ({pred['event_date']})")
+    
+    # Save results
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    filename = f"ufc_2024_2025_test_results_{timestamp}.csv"
+    df_predictions.to_csv(filename, index=False)
+    
+    print(f"\n💾 Results saved to: {filename}")
+    
+    # Final assessment
+    print(f"\n🎯 FINAL ASSESSMENT:")
+    print(f"   🥊 Model Performance: {accuracy:.1%}")
+    print(f"   🎲 Random chance baseline: 50%")
+    print(f"   📈 Improvement over random: +{(accuracy - 0.5)*100:.1f} percentage points")
+    
+    if accuracy >= 0.75:
+        print(f"   🔥 EXCELLENT: Strong predictive performance!")
+    elif accuracy >= 0.65:
+        print(f"   👍 VERY GOOD: Solid predictive power!")
+    elif accuracy >= 0.55:
+        print(f"   👌 GOOD: Meaningful improvement over random!")
+    else:
+        print(f"   📝 FAIR: Some predictive ability, room for improvement")
+    
+    # Strategic insights
+    print(f"\n💡 STRATEGIC INSIGHTS:")
+    
+    # Find best confidence threshold
+    best_threshold = None
+    best_threshold_accuracy = 0
+    best_threshold_count = 0
+    
+    for threshold in [0.8, 0.75, 0.7, 0.65, 0.6]:
+        high_conf_subset = valid_predictions[valid_predictions['confidence'] >= threshold]
+        if len(high_conf_subset) >= 10:  # Need reasonable sample size
+            thresh_accuracy = high_conf_subset['correct_prediction'].mean()
+            if thresh_accuracy > best_threshold_accuracy:
+                best_threshold = threshold
+                best_threshold_accuracy = thresh_accuracy
+                best_threshold_count = len(high_conf_subset)
+    
+    if best_threshold:
+        print(f"   🎯 Optimal strategy: Only bet on predictions with ≥{best_threshold:.0%} confidence")
+        print(f"   📈 This gives you {best_threshold_accuracy:.1%} accuracy on {best_threshold_count} fights")
+        print(f"   💰 Skip {total_valid - best_threshold_count} lower-confidence predictions")
+    
+    return accuracy, total_valid
 
 
 def main():
-    """
-    Main menu for model testing
-    """
-    print("UFC MODEL TESTING - COMPLETED FIGHTS ONLY")
-    print("=========================================")
-    print()
+    """Main function"""
+    print("UFC Model Test - 2024-2025 Fights")
+    print("="*40)
     
-    while True:
-        print("\nSelect an option:")
-        print("1. Full Model Test (scrape completed fights + test)")
-        print("2. Quick Scrape Test (see what's available)")
-        print("3. Manual Prediction Test (test on known fights)")
-        print("4. Exit")
+    response = input("Proceed with testing? (y/n): ").strip().lower()
+    if response != 'y':
+        print("Test cancelled.")
+        return
+    
+    accuracy, total = test_model_on_2024_2025_fights()
+    
+    if accuracy is not None:
+        print(f"\n🏁 TEST COMPLETE!")
+        print(f"🎯 Final Result: {accuracy:.1%} accuracy on {total} fights from 2024-2025")
         
-        choice = input("\nEnter your choice (1-4): ").strip()
-        
-        if choice == '1':
-            test_model_on_completed_fights()
-        
-        elif choice == '2':
-            quick_scrape_test()
-        
-        elif choice == '3':
-            manual_prediction_test()
-        
-        elif choice == '4':
-            print("\nGoodbye! 🥊")
-            break
-        
+        # Performance rating
+        if accuracy >= 0.75:
+            rating = "🔥 EXCELLENT"  
+        elif accuracy >= 0.65:
+            rating = "👍 VERY GOOD"
+        elif accuracy >= 0.55:
+            rating = "👌 GOOD"
         else:
-            print("Invalid choice. Please enter 1-4.")
+            rating = "📝 FAIR"
+            
+        print(f"📊 Performance Rating: {rating}")
+    else:
+        print(f"\n❌ Test failed")
 
 
 if __name__ == "__main__":

@@ -1,0 +1,850 @@
+event_name,event_date,weight_class,fighter1,fighter2,method,round,outcome,timestamp
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Lightweight,Mateusz Gamrot,Ludovit Klein,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Welterweight,Ramiz Brahimaj,Billy Ray Goff,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Light Heavyweight,Dustin Jacoby,Bruno Lopes,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Women's Featherweight,Ketlen Vieira,Macy Chiasson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Middleweight,Zachary Reese,Dusko Todorovic,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Flyweight,Allan Nascimento,Jafel Filho,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Lightweight,Jordan Leavitt,Kurt Holobaugh,SUB              Anaconda Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Lightweight,Bolaji Oki,Michael Aswell,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Barber,2025-05-31,Women's Strawweight,Alice Ardelean,Rayanne dos Santos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Welterweight,Michael Morales,Gilbert Burns,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Lightweight,Mairon Santos,Sodiq Yusuff,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Middleweight,Nursulton Ruziboev,Dustin Stoltzfus,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Featherweight,Melquizael Costa,Julian Erosa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Lightweight,Gabe Green,Matheus Camilo,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Lightweight,Jared Gordon,Thiago Moises,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Featherweight,Yadier del Valle,Connor Matthews,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Women's Bantamweight,Luana Santos,Tainara Lisboa,SUB              Keylock,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Women's Strawweight,Denise Gomes,Elise Reed,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Flyweight,HyunSung Park,Carlos Hernandez,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Morales,2025-05-17,Women's Strawweight,Tecia Pennington,Luana Pinheiro,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Welterweight,Jack Della Maddalena,Belal Muhammad,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Women's Flyweight,Valentina Shevchenko,Manon Fiorot,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Featherweight,Aiemann Zahabi,Jose Aldo,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Women's Flyweight,Natalia Silva,Alexa Grasso,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Lightweight,Benoit Saint Denis,Kyle Prepolec,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Welterweight,Mike Malott,Charles Radtke,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Women's Flyweight,Jasmine Jasudavicius,Jessica Andrade,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Light Heavyweight,Modestas Bukauskas,Ion Cutelaba,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Light Heavyweight,Navajo Stirling,Ivan Erslan,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Middleweight,Marc-Andre Barriault,Bruno Silva,KO/TKO              Elbows,1,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Featherweight,Daniel Santos,JeongYeong Lee,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Bantamweight,Bekzat Almakhan,Brad Katona,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Bantamweight,Cory Sandhagen,Deiveson Figueiredo,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Middleweight,Reinier de Ridder,Bo Nickal,KO/TKO              Knee,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Welterweight,Daniel Rodriguez,Santiago Ponzinibbio,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Bantamweight,Montel Jackson,Daniel Marcos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Bantamweight,Serhiy Sidey,Cameron Smotherman,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Lightweight,Mason Jones,Jeremy Stephens,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Women's Bantamweight,Yana Santos,Miesha Tate,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Middleweight,Azamat Bekoev,Ryan Loder,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Women's Strawweight,Gillian Robertson,Marina Rodriguez,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Bantamweight,Quang Le,Gaston Bolanos,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Heavyweight,Thomas Petersen,Don'Tale Mayes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Figueiredo,2025-05-03,Women's Flyweight,Juliana Miller,Ivana Petrovic,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Welterweight,Ian Machado Garry,Carlos Prates,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Light Heavyweight,Zhang Mingyang,Anthony Smith,KO/TKO              Elbows,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Featherweight,David Onama,Giga Chikadze,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Middleweight,Abus Magomedov,Michel Pereira,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Welterweight,Randy Brown,Nicolas Dalby,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Middleweight,Ikram Aliskerov,Andre Muniz,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Flyweight,Matt Schnell,Jimmy Flick,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Lightweight,Evan Elder,Gauge Young,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Featherweight,Chris Gutierrez,John Castaneda,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Bantamweight,Da'Mon Blackshear, Alatengheili,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Bantamweight,Malcolm Wellmaker,Cameron Saaiman,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Women's Strawweight,Jaqueline Amorim,Polyana Viana,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Featherweight,Timmy Cuamba,Roberto Romero,KO/TKO              Flying Knee,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Machado Garry vs. Prates,2025-04-26,Women's Bantamweight,Joselyne Edwards,Chelsea Chandler,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,Alexander Volkanovski,Diego Lopes,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Lightweight,Paddy Pimblett,Michael Chandler,KO/TKO              Elbows,3,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,Yair Rodriguez,Patricio Freire,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,Jean Silva,Bryce Mitchell,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Light Heavyweight,Dominick Reyes,Nikita Krylov,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,Dan Ige,Sean Woodson,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Women's Strawweight,Virna Jandiroba,Yan Xiaonan,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Lightweight,Chase Hooper,Jim Miller,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,Julian Erosa,Darren Elkins,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Middleweight,Michal Oleksiejczuk,Sedriques Dumas,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Flyweight,Sumudaerji,Mitch Raposo,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Middleweight,Marco Tulio,Tresean Gore,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 314: Volkanovski vs. Lopes,2025-04-12,Women's Bantamweight,Nora Cornolle,Hailey Cowan,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Featherweight,Lerone Murphy,Josh Emmett,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Featherweight,Pat Sabatini,Joanderson Brito,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Bantamweight,ChangHo Lee,Cortavious Romious,KO/TKO              Elbows,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Middleweight,Brad Tavares,Gerald Meerschaert,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Flyweight,Ode Osbourne,Luis Gurule,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Middleweight,Torrez Finney,Robert Valentin,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Women's Flyweight,Dione Barbosa,Diana Belbita,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Welterweight,Rhys McKee,Daniel Frunza,KO/TKO,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Women's Strawweight,Loma Lookboonmee,Istela Nunes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Bantamweight,Victor Henry,Pedro Falcao,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Heavyweight,Martin Buday,Uran Satybaldiev,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Emmett vs. Murphy,2025-04-05,Women's Strawweight,Talita Alencar,Vanessa Demopoulos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Flyweight,Brandon Moreno,Steve Erceg,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Lightweight,Manuel Torres,Drew Dober,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Flyweight,Edgar Chairez,CJ Vergara,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Bantamweight,Raul Rosas Jr.,Vince Morales,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Bantamweight,David Martinez,Saimon Oliveira,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Flyweight,Kevin Borjas,Ronaldo Rodriguez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Middleweight,Ateba Gautier,Jose Daniel Medina,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Featherweight,Melquizael Costa,Christian Rodriguez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Women's Strawweight,Loopy Godinez,Julia Polastri,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Lightweight,Rafa Garcia,Vinc Pichel,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Featherweight,Jamall Emmers,Gabriel Miranda,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Erceg,2025-03-29,Lightweight,MarQuel Mederos,Austin Hubbard,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Welterweight,Sean Brady,Leon Edwards,SUB              Guillotine Choke,4,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Light Heavyweight,Carlos Ulberg,Jan Blachowicz,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Welterweight,Kevin Holland,Gunnar Nelson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Women's Strawweight,Alexia Thainara,Molly McCann,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Lightweight,Chris Duncan,Jordan Vucenic,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Featherweight,Nathaniel Wood,Morgan Charriere,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Lightweight,Chris Padilla,Jai Herbert,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Flyweight,Lone'er Kavanagh,Felipe dos Santos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Heavyweight,Marcin Tybura,Mick Parkin,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Middleweight,Christian Leroy Duncan,Andrey Pulyaev,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Women's Strawweight,Shauna Bannon,Puja Tomar,SUB              Armbar,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Bantamweight,Caolan Loughran,Nathan Fletcher,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Edwards vs. Brady,2025-03-22,Lightweight,Kaue Fernandes,Guram Kutateladze,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Middleweight,Roman Dolidze,Marvin Vettori,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Welterweight,Chidi Njokuani,Elizeu Zaleski dos Santos,KO/TKO              Knee,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Lightweight,Alexander Hernandez,Kurt Holobaugh,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Bantamweight,Da'Mon Blackshear,Cody Gibson,SUB              Kimura,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Light Heavyweight,Brendson Ribeiro,Diyar Nurgozhay,SUB              Kimura,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Featherweight,Kevin Vallejos,SeungWoo Choi,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Heavyweight,Waldo Cortes-Acosta,Ryan Spann,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Bantamweight,SuYoung You,AJ Cunningham,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Bantamweight,Carlos Vera,Josias Musasa,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Women's Strawweight,Sam Hughes,Stephanie Luciano,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Flyweight,Andre Lima,Daniel Barez,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Women's Bantamweight,Priscila Cachoeira,Josiane Nunes,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Vettori vs. Dolidze 2,2025-03-15,Women's Flyweight,Carli Judice,Yuneisy Duben,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Light Heavyweight,Magomed Ankalaev,Alex Pereira,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Lightweight,Justin Gaethje,Rafael Fiziev,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Lightweight,Ignacio Bahamondes,Jalin Turner,SUB              Triangle Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Women's Strawweight,Amanda Lemos,Iasmin Lucindo,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Lightweight,Mauricio Ruffy,King Green,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Flyweight,Joshua Van,Rei Tsuruya,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Middleweight,Brunno Ferreira,Armen Petrosyan,SUB              Armbar,2,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Welterweight,Carlos Leal,Alex Morono,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Featherweight,Mairon Santos,Francis Marshall,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 313: Pereira vs. Ankalaev,2025-03-08,Middleweight,Ozzy Diaz,Djorden Santos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Flyweight,Manel Kape,Asu Almabayev,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Middleweight,Cody Brundage,Julian Marquez,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Lightweight,Nasrat Haqparast,Esteban Ribovics,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Featherweight,Hyder Amil,William Gomis,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Welterweight,Sam Patterson,Danny Barlow,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Heavyweight,Mario Pinto,Austen Lane,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Featherweight,Chepe Mariscal,Ricardo Ramos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Featherweight,Danny Silva,Lucas Almeida,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Women's Flyweight,JJ Aldrich,Andrea Lee,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Kape vs. Almabayev,2025-03-01,Flyweight,Ramazan Temirov,Charles Johnson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Bantamweight,Song Yadong,Henry Cejudo,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Middleweight,Anthony Hernandez,Brendan Allen,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Catch Weight,Rob Font,Jean Matsumoto,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Featherweight,Jean Silva,Melsik Baghdasaryan,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Light Heavyweight,Alonzo Menifield,Julius Walker,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Light Heavyweight,Ion Cutelaba,Ibo Aslan,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Featherweight,Melquizael Costa,Andre Fili,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Middleweight,Mansur Abdul-Malik,Nick Klein,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Bantamweight,Ricky Simon,Javid Basharat,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Catch Weight,Austin Vanderford,Nikolay Veretennikov,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Middleweight,Nursulton Ruziboev,Eric McConico,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cejudo vs. Song,2025-02-22,Light Heavyweight,Modestas Bukauskas,Rafael Cerqueira,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Middleweight,Jared Cannonier,Gregory Rodrigues,KO/TKO              Punches,4,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Featherweight,Youssef Zalal,Calvin Kattar,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Middleweight,Edmen Shahbazyan,Dylan Budka,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Lightweight,Nazim Sadykhov,Ismael Bonfim,KO/TKO,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Middleweight,Andre Petroski,Rodolfo Vieira,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Featherweight,Jose Delgado,Connor Matthews,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Women's Strawweight,Angela Hill,Ketlen Souza,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Flyweight,Rafael Estevam,Jesus Aguilar,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Welterweight,Gabriel Bonfim,Khaos Williams,SUB              D'Arce Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Bantamweight,Elijah Smith,Vince Morales,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Heavyweight,Valter Walker,Don'Tale Mayes,SUB              Heel Hook,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Rodrigues,2025-02-15,Women's Bantamweight,Jacqueline Cavalcanti,Julia Avila,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Middleweight,Dricus Du Plessis,Sean Strickland,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Women's Strawweight,Zhang Weili,Tatiana Suarez,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Heavyweight,Tallison Teixeira,Justin Tafa,KO/TKO              Elbow,1,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Light Heavyweight,Jimmy Crute,Rodolfo Bellato,M-DEC,3,Draw,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Welterweight,Jake Matthews,Francisco Prado,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Featherweight,Gabriel Santos,Jack Jenkins,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Lightweight,Tom Nolan,Viacheslav Borshchev,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Women's Flyweight,Wang Cong,Bruna Brasil,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Bantamweight,Aleksandre Topuria,Colby Thicknesse,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Lightweight,Rongzhu,Kody Steele,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Welterweight,Jonathan Micallef,Kevin Jousset,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Lightweight,Quillan Salkilld,Anshul Jubli,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Middleweight,Nassourdine Imavov,Israel Adesanya,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Middleweight,Michael Page,Shara Magomedov,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Heavyweight,Sergei Pavlovich,Jairzinho Rozenstruik,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Bantamweight,Vinicius Oliveira,Said Nurmagomedov,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Lightweight,Fares Ziam,Mike Davis,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Featherweight,Muhammad Naimov,Kaan Ofli,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Heavyweight,Shamil Gaziev,Thomas Petersen,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Lightweight,Terrance McKinney,Damir Hadzovic,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Women's Flyweight,Jasmine Jasudavicius,Mayra Bueno Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Featherweight,Bogdan Grad,Lucas Alexander,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Adesanya vs. Imavov,2025-02-01,Heavyweight,Hamdy Abdelwahab,Jamal Pogues,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Lightweight,Islam Makhachev,Renato Moicano,SUB              D'Arce Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,Merab Dvalishvili,Umar Nurmagomedov,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Light Heavyweight,Jiri Prochazka,Jamahal Hill,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Heavyweight,Jailton Almeida,Serghei Spivac,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Middleweight,Reinier de Ridder,Kevin Holland,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,Raoni Barcelos,Payton Talbott,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Middleweight,Azamat Bekoev,Zachary Reese,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Light Heavyweight,Bogdan Guskov,Billy Elekana,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Lightweight,Grant Dawson,Diego Ferreira,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Women's Bantamweight,Ailin Perez,Karol Rosa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,Muin Gafurov,Rinya Nakamura,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,Benardo Sopaj,Ricky Turcios,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 311: Makhachev vs. Moicano,2025-01-18,Flyweight,Tagir Ulanbekov,Clayton Carpenter,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Women's Strawweight,Mackenzie Dern,Amanda Ribas,SUB              Armbar,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Welterweight,Santiago Ponzinibbio,Carlston Harris,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Middleweight,Cesar Almeida,Abdul Razak Alhassan,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Middleweight,Roman Kopylov,Chris Curtis,KO/TKO              Kick,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Featherweight,Christian Rodriguez,Austin Bashi,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Welterweight,Punahele Soriano,Uros Medic,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Flyweight,Felipe Bunes,Jose Johnson,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Middleweight,Marco Tulio,Ihor Potieria,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Lightweight,Thiago Moises,Trey Ogden,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Welterweight,Jacobe Smith,Preston Parsons,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Women's Flyweight,Ernesta Kareckaite,Nicolle Caliari,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Light Heavyweight,Bruno Lopes,Magomed Gadzhiyasulov,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Women's Strawweight,Fatima Kline,Viktoriia Dudakova,KO/TKO              Elbows,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dern vs. Ribas 2,2025-01-11,Lightweight,Nurullo Aliev,Joe Solecki,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Welterweight,Joaquin Buckley,Colby Covington,KO/TKO,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Featherweight,Cub Swanson,Billy Quarantillo,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Flyweight,Manel Kape,Bruno Silva,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Light Heavyweight,Dustin Jacoby,Vitor Petrino,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Bantamweight,Daniel Marcos,Adrian Yanez,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Light Heavyweight,Navajo Stirling,Tuco Tokkos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Lightweight,Michael Johnson,Ottman Azaitar,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Lightweight,Joel Alvarez,Drakkar Klose,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Featherweight,Sean Woodson,Fernando Padilla,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Featherweight,Felipe Lima,Miles Johns,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Women's Flyweight,Miranda Maverick,Jamey-Lyn Horth,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Bantamweight,Davey Grant,Ramon Taveras,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Covington vs. Buckley,2024-12-14,Women's Strawweight,Piera Rodriguez,Josefine Knutsson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Flyweight,Alexandre Pantoja,Kai Asakura,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,Shavkat Rakhmonov,Ian Machado Garry,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Heavyweight,Ciryl Gane,Alexander Volkov,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Featherweight,Bryce Mitchell,Kron Gracie,KO/TKO              Elbows,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Featherweight,Dooho Choi,Nate Landwehr,KO/TKO              Elbows,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Light Heavyweight,Dominick Reyes,Anthony Smith,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,Vicente Luque,Themba Gorimbo,SUB              Anaconda Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Featherweight,Movsar Evloev,Aljamain Sterling,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,Bryan Battle,Randy Brown,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Catch Weight,Eryk Anders,Chris Weidman,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Flyweight,Joshua Van,Cody Durden,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,Michael Chiesa,Max Griffin,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Lightweight,Chase Hooper,Clay Guida,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC 310: Pantoja vs. Asakura,2024-12-07,Heavyweight,Kennedy Nzechukwu,Lukasz Brzeski,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Bantamweight,Petr Yan,Deiveson Figueiredo,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Women's Strawweight,Yan Xiaonan,Tabatha Ricci,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Welterweight,Muslim Salikhov,Song Kenan,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Women's Flyweight,Gabriella Fernandes,Wang Cong,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Light Heavyweight,Carlos Ulberg,Volkan Oezdemir,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Light Heavyweight,Zhang Mingyang,Ozzy Diaz,KO/TKO              Elbow,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Bantamweight,SuYoung You,Baergeng Jieleyisi,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Flyweight,DongHun Choi,Kiru Sahota,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Women's Strawweight,Shi Ming,Feng Xiaocan,KO/TKO              Kick,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Flyweight,Carlos Hernandez,Nyamjargal Tumendemberel,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Flyweight,Lone'er Kavanagh,Jose Ochoa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Bantamweight,Xiao Long,Quang Le,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yan vs. Figueiredo,2024-11-23,Lightweight,Nikolas Motta, Maheshate,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Heavyweight,Jon Jones,Stipe Miocic,KO/TKO              Spinning Back Kick,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Lightweight,Charles Oliveira,Michael Chandler,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Middleweight,Bo Nickal,Paul Craig,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Women's Flyweight,Viviane Araujo,Karine Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Catch Weight,Mauricio Ruffy,James Llontop,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Bantamweight,Marcus McGhee,Jonathan Martinez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Lightweight,Jim Miller,Damon Jackson,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Lightweight,David Onama,Roberto Romero,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Heavyweight,Marcin Tybura,Jhonata Diniz,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Welterweight,Ramiz Brahimaj,Mickey Gall,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Welterweight,Oban Elliott,Bassil Hafez,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC 309: Jones vs. Miocic,2024-11-16,Women's Flyweight,Eduarda Moura,Veronica Hardy,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Welterweight,Carlos Prates,Neil Magny,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Middleweight,Reinier de Ridder,Gerald Meerschaert,SUB              Arm Triangle,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Bantamweight,Gaston Bolanos,Cortavious Romious,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Women's Strawweight,Gillian Robertson,Luana Pinheiro,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Middleweight,Mansur Abdul-Malik,Dusko Todorovic,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Women's Strawweight,Denise Gomes,Karolina Kowalkiewicz,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Welterweight,Elizeu Zaleski dos Santos,Zachary Scroggin,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Welterweight,Charles Radtke,Matthew Semelsberger,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Bantamweight,Da'Mon Blackshear,Cody Stamann,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Middleweight,Tresean Gore,Antonio Trocoli,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Magny vs. Prates,2024-11-09,Women's Bantamweight,Melissa Mullins,Klaudia Sygula,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Flyweight,Brandon Moreno,Amir Albazi,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Women's Flyweight,Erin Blanchfield,Rose Namajunas,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Light Heavyweight,Brendson Ribeiro,Caio Machado,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Women's Flyweight,Jasmine Jasudavicius,Ariane da Silva,SUB              D'Arce Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Middleweight,Dustin Stoltzfus,Marc-Andre Barriault,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Welterweight,Mike Malott,Trevin Giles,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Bantamweight,Aiemann Zahabi,Pedro Munhoz,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Bantamweight,Charles Jourdain,Victor Henry,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Featherweight,Youssef Zalal,Jack Shore,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Heavyweight,Alexandr Romanov,Rodrigo Nascimento,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Bantamweight,Serhiy Sidey,Garrett Armfield,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Bantamweight,Cody Gibson,Chad Anheliger,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Albazi,2024-11-02,Women's Flyweight,Jamey-Lyn Horth,Ivana Petrovic,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Featherweight,Ilia Topuria,Max Holloway,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,Khamzat Chimaev,Robert Whittaker,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Light Heavyweight,Magomed Ankalaev,Aleksandar Rakic,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Featherweight,Lerone Murphy,Dan Ige,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,Shara Magomedov,Armen Petrosyan,KO/TKO              Spinning Back Fist,2,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Light Heavyweight,Ibo Aslan,Rafael Cerqueira,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Welterweight,Geoff Neal,Rafael Dos Anjos,KO/TKO,1,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Catch Weight,Mateusz Rebecki,Myktybek Orolbai,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,Abus Magomedov,Brunno Ferreira,SUB              Arm Triangle,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Heavyweight,Kennedy Nzechukwu,Chris Barnett,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Featherweight,Farid Basharat,Victor Hugo,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,Ismail Naurdiev,Bruno Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 308: Topuria vs. Holloway,2024-10-26,Welterweight,Rinat Fakhretdinov,Carlos Leal,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Middleweight,Anthony Hernandez,Michel Pereira,KO/TKO              Elbows,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Bantamweight,Rob Font,Kyler Phillips,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Flyweight,Charles Johnson, Sumudaerji,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Bantamweight,Cameron Smotherman,Jake Hadley,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Featherweight,Darren Elkins,Daniel Pineda,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Flyweight,Asu Almabayev,Matheus Nicolau,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Bantamweight,Jean Matsumoto,Brad Katona,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Women's Bantamweight,Joselyne Edwards,Tamires Vidal,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Women's Strawweight,Elise Reed,Jessica Penne,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Women's Strawweight,Melissa Martinez,Alice Ardelean,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hernandez vs. Pereira,2024-10-19,Heavyweight,Austen Lane,Robelis Despaigne,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Flyweight,Brandon Royval,Tatsuro Taira,S-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Middleweight,JunYong Park,Brad Tavares,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Welterweight,Chidi Njokuani,Jared Gooden,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Lightweight,Grant Dawson,Rafa Garcia,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Welterweight,Daniel Rodriguez,Alex Morono,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Flyweight,Ramazan Temirov,CJ Vergara,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Featherweight,Pat Sabatini,Jonathan Pearce,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Welterweight,Themba Gorimbo,Niko Price,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Heavyweight,Junior Tafa,Sean Sharaf,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Women's Strawweight,Julia Polastri,Cory McKenna,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Bantamweight,Cody Haddon,Dan Argueta,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Royval vs. Taira,2024-10-12,Flyweight,Clayton Carpenter,Lucas Rocha,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Light Heavyweight,Alex Pereira,Khalil Rountree Jr.,KO/TKO              Punch,4,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Bantamweight,Julianna Pena,Raquel Pennington,S-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Bantamweight,Mario Bautista,Jose Aldo,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Middleweight,Roman Dolidze,Kevin Holland,KO/TKO,1,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Bantamweight,Kayla Harrison,Ketlen Vieira,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Welterweight,Joaquin Buckley,Stephen Thompson,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Strawweight,Iasmin Lucindo,Marina Rodriguez,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Lightweight,Alexander Hernandez,Austin Hubbard,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Middleweight,Cesar Almeida,Ihor Potieria,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Light Heavyweight,Ryan Spann,Ovince Saint Preux,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Strawweight,Tecia Pennington,Carla Esparza,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Welterweight,Court McGee,Tim Means,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Lightweight,Renato Moicano,Benoit Saint Denis,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Middleweight,Nassourdine Imavov,Brendan Allen,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Featherweight,William Gomis,Joanderson Brito,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Welterweight,Bryan Battle,Kevin Jousset,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Featherweight,Morgan Charriere,Gabriel Miranda,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Lightweight,Fares Ziam,Matt Frevola,KO/TKO              Knee,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Light Heavyweight,Ion Cutelaba,Ivan Erslan,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Light Heavyweight,Oumar Sy,Da Woon Jung,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Lightweight,Ludovit Klein,Roosevelt Roberts,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Bantamweight,Taylor Lapilus,Vince Morales,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Women's Bantamweight,Ailin Perez,Daria Zhelezniakova,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Flyweight,Daniel Barez,Victor Altamirano,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Women's Bantamweight,Jacqueline Cavalcanti,Nora Cornolle,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Lightweight,Chris Duncan,Bolaji Oki,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Bantamweight,Merab Dvalishvili,Sean O'Malley,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Women's Flyweight,Valentina Shevchenko,Alexa Grasso,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Featherweight,Diego Lopes,Brian Ortega,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Lightweight,Esteban Ribovics,Daniel Zellhuber,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Flyweight,Ronaldo Rodriguez,Ode Osbourne,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Women's Bantamweight,Norma Dumont,Irene Aldana,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Lightweight,Ignacio Bahamondes,Manuel Torres,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Women's Strawweight,Ketlen Souza,Yazmin Jauregui,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Flyweight,Joshua Van,Edgar Chairez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 306: Riyadh Season Noche UFC,2024-09-14,Bantamweight,Raul Rosas Jr., Aoriqileng,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Welterweight,Sean Brady,Gilbert Burns,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Women's Flyweight,Natalia Silva,Jessica Andrade,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Featherweight,Steve Garcia,Kyle Nelson,KO/TKO              Elbows,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Bantamweight,Cody Durden,Matt Schnell,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Lightweight,Yanal Ashmouz,Trevor Peek,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Lightweight,Chris Padilla, Rongzhu,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Featherweight,Isaac Dulgarian,Brendon Marotte,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Flyweight,Andre Lima,Felipe dos Santos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Featherweight,Gabriel Santos, Yizha,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Women's Strawweight,Jaqueline Amorim,Vanessa Demopoulos,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Middleweight,Andre Petroski,Dylan Budka,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Burns vs. Brady,2024-09-07,Featherweight,Nathan Fletcher,Zygimantas Ramaska,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Middleweight,Caio Borralho,Jared Cannonier,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Women's Strawweight,Tabatha Ricci,Angela Hill,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Middleweight,Ryan Loder,Robert Valentin,KO/TKO              Elbows,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Featherweight,Mairon Santos,Kaan Ofli,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Welterweight,Michael Morales,Neil Magny,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Middleweight,Gerald Meerschaert,Edmen Shahbazyan,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Lightweight,Francis Marshall,Dennis Buzukja,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Middleweight,Zachary Reese,Jose Daniel Medina,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Lightweight,Viacheslav Borshchev,James Llontop,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Women's Bantamweight,Jacqueline Cavalcanti,Josiane Nunes,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Borralho,2024-08-24,Women's Flyweight,Wang Cong,Victoria Leonardo,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Middleweight,Dricus Du Plessis,Israel Adesanya,SUB              Rear Naked Choke,4,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Flyweight,Kai Kara-France,Steve Erceg,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Lightweight,Dan Hooker,Mateusz Gamrot,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Heavyweight,Jairzinho Rozenstruik,Tai Tuivasa,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Welterweight,Carlos Prates,Li Jingliang,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Heavyweight,Valter Walker,Junior Tafa,SUB              Heel Hook,1,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Featherweight,Ricardo Ramos,Josh Culibao,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Women's Flyweight,Casey O'Neill,Luana Santos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Featherweight,Jack Jenkins,Herbert Burns,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Lightweight,Tom Nolan,Alex Reyes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Welterweight,Song Kenan,Ricky Glenn,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 305: Du Plessis vs. Adesanya,2024-08-17,Flyweight,Jesus Aguilar,Stewart Nicoll,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Heavyweight,Serghei Spivac,Marcin Tybura,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Featherweight,Chepe Mariscal,Damon Jackson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Welterweight,Danny Barlow,Nikolay Veretennikov,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Bantamweight,Chris Gutierrez,Quang Le,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Women's Bantamweight,Yana Santos,Chelsea Chandler,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Bantamweight,Toshiomi Kazama,Charalampos Grigoriou,SUB              Triangle Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Women's Bantamweight,Karol Rosa,Pannie Kianzad,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Heavyweight,Jhonata Diniz,Karl Williams,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Featherweight,Youssef Zalal,Jarno Errens,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tybura vs. Spivac 2,2024-08-10,Women's Strawweight,Stephanie Luciano,Talita Alencar,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Bantamweight,Umar Nurmagomedov,Cory Sandhagen,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Middleweight,Shara Magomedov,Michal Oleksiejczuk,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Bantamweight,Deiveson Figueiredo,Marlon Vera,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Welterweight,Michael Chiesa,Tony Ferguson,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Women's Strawweight,Mackenzie Dern,Loopy Godinez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Lightweight,Joel Alvarez,Elves Brener,KO/TKO              Knees,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Light Heavyweight,Azamat Murzakanov,Alonzo Menifield,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Lightweight,Kaue Fernandes,Mohammad Yahya,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Heavyweight,Shamil Gaziev,Don'Tale Mayes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Lightweight,Guram Kutateladze,Jordan Vucenic,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Women's Strawweight,Sam Hughes,Viktoriia Dudakova,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Lightweight,Jai Herbert,Rolando Bedoya,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Sandhagen vs. Nurmagomedov,2024-08-03,Middleweight,Sedriques Dumas,Denis Tiuliulin,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Welterweight,Belal Muhammad,Leon Edwards,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Heavyweight,Tom Aspinall,Curtis Blaydes,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Lightweight,Paddy Pimblett,King Green,SUB              Triangle Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Middleweight,Gregory Rodrigues,Christian Leroy Duncan,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Featherweight,Arnold Allen,Giga Chikadze,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Featherweight,Nathaniel Wood,Daniel Pineda,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Women's Strawweight,Bruna Brasil,Molly McCann,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Bantamweight,Jake Hadley,Caolan Loughran,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Flyweight,Muhammad Mokaev,Manel Kape,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Welterweight,Oban Elliott,Preston Parsons,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Light Heavyweight,Modestas Bukauskas,Marcin Prachnio,SUB              Arm Triangle,3,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Welterweight,Sam Patterson,Kiefer Crosbie,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Heavyweight,Mick Parkin,Lukasz Brzeski,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 304: Edwards vs. Muhammad 2,2024-07-27,Women's Strawweight,Shauna Bannon,Alice Ardelean,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Women's Strawweight,Virna Jandiroba,Amanda Lemos,SUB              Armbar,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Featherweight,Steve Garcia,SeungWoo Choi,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Lightweight,Kurt Holobaugh,Kaynan Kruschewsky,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Flyweight,Bruno Silva,Cody Durden,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Featherweight,Dooho Choi,Bill Algeo,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Featherweight,Hyder Amil,JeongYeong Lee,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Bantamweight,Cody Gibson,Brian Kelleher,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Women's Flyweight,Miranda Maverick,Dione Barbosa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Lightweight,Trey Ogden,Loik Radzhabov,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Women's Flyweight,Luana Carolina,Lucie Pudilova,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lemos vs. Jandiroba,2024-07-20,Heavyweight,Thomas Petersen,Mohammed Usman,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Women's Flyweight,Rose Namajunas,Tracy Cortez,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Welterweight,Muslim Salikhov,Santiago Ponzinibbio,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Lightweight,Jean Silva,Drew Dober,KO/TKO,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Welterweight,Gabriel Bonfim,Ange Loosa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Featherweight,Julian Erosa,Christian Rodriguez,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Middleweight,Abdul Razak Alhassan,Cody Brundage,CNC,1,No contest,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Flyweight,Charles Johnson,Joshua Van,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Women's Flyweight,Jasmine Jasudavicius,Fatima Kline,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Bantamweight,Montel Jackson,Da'Mon Blackshear,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Women's Flyweight,Luana Santos,Mariya Agapova,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Middleweight,Andre Petroski,Josh Fremd,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Namajunas vs. Cortez,2024-07-13,Welterweight,Evan Elder,Darrius Flowers,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Light Heavyweight,Alex Pereira,Jiri Prochazka,KO/TKO              Kick,2,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Catch Weight,Diego Lopes,Dan Ige,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Light Heavyweight,Roman Dolidze,Anthony Smith,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Women's Bantamweight,Macy Chiasson,Mayra Bueno Silva,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Welterweight,Ian Machado Garry,Michael Page,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Middleweight,Joe Pyfer,Marc-Andre Barriault,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Featherweight,Andre Fili,Cub Swanson,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Featherweight,Jean Silva,Charles Jourdain,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Bantamweight,Payton Talbott,Yanis Ghemmouri,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Women's Strawweight,Gillian Robertson,Michelle Waterson-Gomez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Heavyweight,Martin Buday,Andrei Arlovski,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Flyweight,Rei Tsuruya,Carlos Hernandez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 303: Pereira vs. Prochazka 2,2024-06-29,Bantamweight,Vinicius Oliveira,Ricky Simon,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Middleweight,Robert Whittaker,Ikram Aliskerov,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Heavyweight,Alexander Volkov,Sergei Pavlovich,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Middleweight,Kelvin Gastelum,Daniel Rodriguez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Middleweight,Shara Magomedov,Antonio Trocoli,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Light Heavyweight,Volkan Oezdemir,Johnny Walker,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Lightweight,Nasrat Haqparast,Jared Gordon,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Featherweight,Felipe Lima,Muhammad Naimov,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Welterweight,Rinat Fakhretdinov,Nicolas Dalby,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Bantamweight,Muin Gafurov,Kyung Ho Kang,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Light Heavyweight,Magomed Gadzhiyasulov,Brendson Ribeiro,M-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Whittaker vs. Aliskerov,2024-06-22,Bantamweight,ChangHo Lee,Xiao Long,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Flyweight,Tatsuro Taira,Alex Perez,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Bantamweight,Miles Johns,Douglas Silva de Andrade,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Featherweight,Lucas Almeida,Timmy Cuamba,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Bantamweight,Brady Hiestand,Garrett Armfield,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Flyweight,Asu Almabayev,Jose Johnson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Welterweight,Adam Fugitt,Josh Quinlan,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Flyweight,Nate Maness,Jimmy Flick,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Women's Flyweight,Gabriella Fernandes,Carli Judice,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Featherweight,Westin Wilson,Jeka Saragih,SUB              Triangle Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Featherweight,Melquizael Costa,Shayilan Nuerdanbieke,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Perez vs. Taira,2024-06-15,Women's Strawweight,Josefine Knutsson,Julia Polastri,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Middleweight,Nassourdine Imavov,Jared Cannonier,KO/TKO              Punches,4,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Light Heavyweight,Dominick Reyes,Dustin Jacoby,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Bantamweight,Raul Rosas Jr.,Ricky Turcios,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Middleweight,Brunno Ferreira,Dustin Stoltzfus,KO/TKO              Spinning Back Elbow,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Middleweight,Zachary Reese,Julian Marquez,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Welterweight,Punahele Soriano,Miguel Baeza,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Lightweight,Ludovit Klein,Thiago Moises,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Welterweight,Carlos Prates,Charles Radtke,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Bantamweight,Brad Katona,Jesse Butler,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Women's Flyweight,Montana De La Rosa,Andrea Lee,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Bantamweight,Daniel Marcos,John Castaneda,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Women's Strawweight,Denise Gomes,Eduarda Moura,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Bantamweight,Taylor Lapilus,Cody Stamann,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Cannonier vs. Imavov,2024-06-08,Women's Strawweight,Puja Tomar,Rayanne dos Santos,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Lightweight,Islam Makhachev,Dustin Poirier,SUB              D'Arce Choke,5,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Middleweight,Sean Strickland,Paulo Costa,S-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Middleweight,Kevin Holland,Michal Oleksiejczuk,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,Niko Price,Alex Morono,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,Randy Brown,Elizeu Zaleski dos Santos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Middleweight,Roman Kopylov,Cesar Almeida,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Heavyweight,Jailton Almeida,Alexandr Romanov,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Lightweight,Grant Dawson,Joe Solecki,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,Jake Matthews,Phil Rowe,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,Bassil Hafez,Mickey Gall,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Women's Bantamweight,Ailin Perez,Joselyne Edwards,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 302: Makhachev vs. Poirier,2024-06-01,Flyweight,Andre Lima,Mitch Raposo,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Featherweight,Lerone Murphy,Edson Barboza,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Welterweight,Khaos Williams,Carlston Harris,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Welterweight,Themba Gorimbo,Ramiz Brahimaj,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Bantamweight,Adrian Yanez,Vinicius Salvador,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Women's Strawweight,Angela Hill,Luana Pinheiro,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Lightweight,Tom Nolan,Victor Martinez,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Light Heavyweight,Oumar Sy,Tuco Tokkos,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Women's Bantamweight,Melissa Gatto,Tamires Vidal,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Middleweight,Abus Magomedov,Warlley Alves,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Women's Strawweight,Ariane Carnelossi,Piera Rodriguez,DQ,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Bantamweight,Alatengheili,Kleydson Rodrigues,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Barboza vs. Murphy,2024-05-18,Women's Strawweight,Vanessa Demopoulos,Emily Ducote,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Heavyweight,Derrick Lewis,Rodrigo Nascimento,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Welterweight,Joaquin Buckley,Nursulton Ruziboev,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Light Heavyweight,Carlos Ulberg,Alonzo Menifield,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Lightweight,Diego Ferreira,Mateusz Rebecki,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Featherweight,Sean Woodson,Alex Caceres,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Heavyweight,Waldo Cortes-Acosta,Robelis Despaigne,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Lightweight,Chase Hooper,Viacheslav Borshchev,SUB              D'Arce Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Lightweight,Esteban Ribovics,Terrance McKinney,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Women's Strawweight,Tabatha Ricci,Tecia Pennington,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Welterweight,Trey Waters,Billy Ray Goff,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Flyweight,Charles Johnson,Jake Hadley,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Lewis vs. Nascimento,2024-05-11,Women's Flyweight,Veronica Hardy,JJ Aldrich,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Flyweight,Alexandre Pantoja,Steve Erceg,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Bantamweight,Jose Aldo,Jonathan Martinez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Light Heavyweight,Anthony Smith,Vitor Petrino,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Middleweight,Michel Pereira,Ihor Potieria,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Middleweight,Caio Borralho,Paul Craig,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Featherweight,Joanderson Brito,Jack Shore,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Women's Strawweight,Iasmin Lucindo,Karolina Kowalkiewicz,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,Myktybek Orolbai,Elves Brener,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,Drakkar Klose,Joaquim Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,Mauricio Ruffy,Jamie Mullarkey,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Women's Flyweight,Dione Barbosa,Ernesta Kareckaite,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,Ismael Bonfim,Vinc Pichel,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 301: Pantoja vs. Erceg,2024-05-04,Flyweight,Alessandro Costa,Kevin Borjas,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Flyweight,Alex Perez,Matheus Nicolau,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Light Heavyweight,Bogdan Guskov,Ryan Spann,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Women's Flyweight,Karine Silva,Ariane da Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Heavyweight,Jhonata Diniz,Austen Lane,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Featherweight,David Onama,Jonathan Pearce,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Welterweight,Uros Medic,Tim Means,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Bantamweight,Victor Henry,Rani Yahya,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Lightweight,Austin Hubbard,Michal Figlak,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Heavyweight,Don'Tale Mayes,Caio Machado,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Women's Strawweight,Ketlen Souza,Marnic Mann,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Lightweight,Chris Padilla,James Llontop,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Women's Flyweight,Ivana Petrovic,Liang Na,SUB              Arm Triangle,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Nicolau vs. Perez,2024-04-27,Lightweight,Maheshate,Gabriel Benitez,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Light Heavyweight,Alex Pereira,Jamahal Hill,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Women's Strawweight,Zhang Weili,Yan Xiaonan,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,Max Holloway,Justin Gaethje,KO/TKO              Punch,5,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,Arman Tsarukyan,Charles Oliveira,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Middleweight,Bo Nickal,Cody Brundage,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Light Heavyweight,Jiri Prochazka,Aleksandar Rakic,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Featherweight,Aljamain Sterling,Calvin Kattar,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Women's Bantamweight,Kayla Harrison,Holly Holm,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Featherweight,Diego Lopes,Sodiq Yusuff,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,Renato Moicano,Jalin Turner,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Women's Strawweight,Jessica Andrade,Marina Rodriguez,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,King Green,Jim Miller,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 300: Pereira vs. Hill,2024-04-13,Bantamweight,Deiveson Figueiredo,Cody Garbrandt,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Middleweight,Brendan Allen,Chris Curtis,S-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Featherweight,Damon Jackson,Alexander Hernandez,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Featherweight,Chepe Mariscal,Morgan Charriere,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Lightweight,Ignacio Bahamondes,Christos Giagos,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Lightweight,Charlie Campbell,Trevor Peek,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Welterweight,Alex Morono,Court McGee,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Heavyweight,Lukasz Brzeski,Valter Walker,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Women's Bantamweight,Norma Dumont,Germaine de Randamie,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Bantamweight,Victor Hugo,Pedro Falcao,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Bantamweight,Jean Matsumoto,Dan Argueta,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Middleweight,Cesar Almeida,Dylan Budka,KO/TKO              Elbows,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Curtis 2,2024-04-06,Women's Bantamweight,Nora Cornolle,Melissa Mullins,KO/TKO              Knee,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Women's Flyweight,Manon Fiorot,Erin Blanchfield,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Welterweight,Joaquin Buckley,Vicente Luque,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Middleweight,Chris Weidman,Bruno Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Middleweight,Nursulton Ruziboev,Sedriques Dumas,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Featherweight,Kyle Nelson,Bill Algeo,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Welterweight,Chidi Njokuani,Rhys McKee,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Featherweight,Nate Landwehr,Jamall Emmers,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Women's Strawweight,Virna Jandiroba,Loopy Godinez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Featherweight,Julio Arce,Herbert Burns,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Featherweight,Dennis Buzukja,Connor Matthews,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Light Heavyweight,Ibo Aslan,Anton Turkalj,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Middleweight,Jacob Malkoun,Andre Petroski,KO/TKO              Kick,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Blanchfield vs. Fiorot,2024-03-30,Bantamweight,Caolan Loughran,Angel Pacheco,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Women's Flyweight,Rose Namajunas,Amanda Ribas,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Heavyweight,Karl Williams,Justin Tafa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Middleweight,Edmen Shahbazyan,AJ Dobson,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Bantamweight,Payton Talbott,Cameron Saaiman,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Featherweight,Youssef Zalal,Billy Quarantillo,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Featherweight,Fernando Padilla,Luis Pajuelo,SUB              D'Arce Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Lightweight,Trey Ogden,Kurt Holobaugh,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Featherweight,Julian Erosa,Ricardo Ramos,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Bantamweight,Miles Johns,Cody Gibson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Featherweight,Jarno Errens,Steven Nguyen,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Women's Bantamweight,Daria Zhelezniakova,Montserrat Rendon,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Flyweight,Andre Lima,Igor Severino,DQ,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ribas vs. Namajunas,2024-03-23,Heavyweight,Mick Parkin,Mohammed Usman,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Heavyweight,Marcin Tybura,Tai Tuivasa,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Welterweight,Bryan Battle,Ange Loosa,CNC,2,No contest,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Light Heavyweight,Ovince Saint Preux,Kennedy Nzechukwu,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Featherweight,Christian Rodriguez,Isaac Dulgarian,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Women's Bantamweight,Macy Chiasson,Pannie Kianzad,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Middleweight,Gerald Meerschaert,Bryan Barberena,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Lightweight,Mike Davis,Natan Levy,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Women's Bantamweight,Chelsea Chandler,Josiane Nunes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Flyweight,Jafel Filho,Ode Osbourne,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Featherweight,Danny Silva,Josh Culibao,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Women's Strawweight,Jaqueline Amorim,Cory McKenna,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Lightweight,Thiago Moises,Mitch Ramirez,KO/TKO              Kick,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Tuivasa vs. Tybura,2024-03-16,Bantamweight,Chad Anheliger,Charalampos Grigoriou,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Bantamweight,Sean O'Malley,Marlon Vera,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Lightweight,Dustin Poirier,Benoit Saint Denis,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Welterweight,Michael Page,Kevin Holland,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Welterweight,Jack Della Maddalena,Gilbert Burns,KO/TKO              Elbows,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Bantamweight,Petr Yan,Song Yadong,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Heavyweight,Curtis Blaydes,Jailton Almeida,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Women's Flyweight,Maycee Barber,Katlyn Cerminara,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Lightweight,Mateusz Gamrot,Rafael Dos Anjos,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Bantamweight,Kyler Phillips,Pedro Munhoz,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Light Heavyweight,Philipe Lins,Ion Cutelaba,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Middleweight,Michel Pereira,Michal Oleksiejczuk,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Heavyweight,Robelis Despaigne,Josh Parisian,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Flyweight,Asu Almabayev,CJ Vergara,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 299: O'Malley vs. Vera 2,2024-03-09,Women's Flyweight,Joanne Wood,Maryna Moroz,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Heavyweight,Jairzinho Rozenstruik,Shamil Gaziev,KO/TKO,4,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Light Heavyweight,Vitor Petrino,Tyson Pedro,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Flyweight,Muhammad Mokaev,Alex Perez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Bantamweight,Umar Nurmagomedov,Bekzat Almakhan,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Flyweight,Steve Erceg,Matt Schnell,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Middleweight,Eryk Anders,Jamie Pickett,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Bantamweight,Vinicius Oliveira,Benardo Sopaj,KO/TKO              Flying Knee,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Bantamweight,Aiemann Zahabi,Javid Basharat,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Middleweight,Christian Leroy Duncan,Claudio Ribeiro,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Lightweight,Ludovit Klein,AJ Cunningham,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Rozenstruik vs. Gaziev,2024-03-02,Lightweight,Loik Radzhabov,Abdul-Kareem Al-Selwady,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Flyweight,Brandon Royval,Brandon Moreno,S-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Featherweight,Brian Ortega,Yair Rodriguez,SUB              Arm Triangle,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Lightweight,Daniel Zellhuber,Francisco Prado,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Women's Strawweight,Yazmin Jauregui,Sam Hughes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Lightweight,Manuel Torres,Chris Duncan,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Bantamweight,Raoni Barcelos,Cristian Quinonez,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Flyweight,Jesus Aguilar,Mateus Mendonca,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Flyweight,Edgar Chairez,Daniel Lacerda,SUB              Triangle Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Lightweight,Fares Ziam,Claudio Puelles,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Flyweight,Ronaldo Rodriguez,Denys Bondar,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Flyweight,Felipe dos Santos,Victor Altamirano,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Moreno vs. Royval 2,2024-02-24,Featherweight,Muhammad Naimov,Erik Silva,KO/TKO,1,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Featherweight,Ilia Topuria,Alexander Volkanovski,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Middleweight,Robert Whittaker,Paulo Costa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Welterweight,Ian Machado Garry,Geoff Neal,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Bantamweight,Merab Dvalishvili,Henry Cejudo,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Middleweight,Anthony Hernandez,Roman Kopylov,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Women's Strawweight,Amanda Lemos,Mackenzie Dern,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Heavyweight,Marcos Rogerio de Lima,Junior Tafa,KO/TKO              Kick,2,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Bantamweight,Rinya Nakamura,Carlos Vera,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Light Heavyweight,Zhang Mingyang,Brendson Ribeiro,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Welterweight,Danny Barlow,Josh Quinlan,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Welterweight,Oban Elliott,Val Woodburn,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 298: Volkanovski vs. Topuria,2024-02-17,Women's Flyweight,Miranda Maverick,Andrea Lee,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Middleweight,Jack Hermansson,Joe Pyfer,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Featherweight,Dan Ige,Andre Fili,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Middleweight,Ihor Potieria,Robert Bryczek,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Middleweight,Gregory Rodrigues,Brad Tavares,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Lightweight,Michael Johnson,Darrius Flowers,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Middleweight,Rodolfo Vieira,Armen Petrosyan,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Welterweight,Carlos Prates,Trevin Giles,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Lightweight,Bolaji Oki,Timmy Cuamba,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Women's Strawweight,Loma Lookboonmee,Bruna Brasil,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Light Heavyweight,Marcin Prachnio,Devin Clark,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Welterweight,Max Griffin,Jeremiah Wells,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Light Heavyweight,Bogdan Guskov,Zac Pauga,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Featherweight,Hyder Amil,Fernie Garcia,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Hermansson vs. Pyfer,2024-02-10,Bantamweight,Daniel Marcos, Aoriqileng,CNC,2,No contest,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Middleweight,Nassourdine Imavov,Roman Dolidze,M-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Lightweight,Renato Moicano,Drew Dober,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Welterweight,Randy Brown,Muslim Salikhov,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Women's Flyweight,Natalia Silva,Viviane Araujo,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Middleweight,Aliaskhab Khizriev,Makhmud Muradov,CNC,1,No contest,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Welterweight,Charles Radtke,Gilbert Urbina,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Women's Strawweight,Molly McCann,Diana Belbita,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Flyweight,Charles Johnson,Azat Maksum,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Welterweight,Themba Gorimbo,Pete Rodriguez,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Featherweight,JeongYeong Lee,Blake Bilder,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Women's Flyweight,Luana Carolina,Julija Stoliarenko,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Lightweight,MarQuel Mederos,Landon Quinones,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dolidze vs. Imavov,2024-02-03,Heavyweight,Jamal Pogues,Thomas Petersen,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Middleweight,Dricus Du Plessis,Sean Strickland,S-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Women's Bantamweight,Raquel Pennington,Mayra Bueno Silva,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Welterweight,Neil Magny,Mike Malott,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Middleweight,Chris Curtis,Marc-Andre Barriault,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Featherweight,Movsar Evloev,Arnold Allen,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Bantamweight,Garrett Armfield,Brad Katona,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Featherweight,Sean Woodson,Charles Jourdain,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Bantamweight,Ramon Taveras,Serhiy Sidey,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Women's Strawweight,Gillian Robertson,Polyana Viana,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Welterweight,Sam Patterson,Yohan Lainesse,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Women's Bantamweight,Jasmine Jasudavicius,Priscila Cachoeira,SUB              Anaconda Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC 297: Strickland vs. Du Plessis,2024-01-20,Flyweight,Jimmy Flick,Malcolm Gordon,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Light Heavyweight,Magomed Ankalaev,Johnny Walker,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Lightweight,Jim Miller,Gabriel Benitez,SUB              Neck Crank,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Bantamweight,Mario Bautista,Ricky Simon,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Middleweight,Brunno Ferreira,Phil Hawes,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Heavyweight,Waldo Cortes-Acosta,Andrei Arlovski,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Welterweight,Preston Parsons,Matthew Semelsberger,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Bantamweight,Marcus McGhee,Gaston Bolanos,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Bantamweight,Farid Basharat,Taylor Lapilus,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Featherweight,Jean Silva,Westin Wilson,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Lightweight,Nikolas Motta,Tom Nolan,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Ankalaev vs. Walker 2,2024-01-13,Flyweight,Joshua Van,Felipe Bunes,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Welterweight,Leon Edwards,Colby Covington,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Flyweight,Alexandre Pantoja,Brandon Royval,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Welterweight,Shavkat Rakhmonov,Stephen Thompson,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Lightweight,Paddy Pimblett,Tony Ferguson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Featherweight,Josh Emmett,Bryce Mitchell,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Light Heavyweight,Alonzo Menifield,Dustin Jacoby,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Women's Bantamweight,Irene Aldana,Karol Rosa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Bantamweight,Cody Garbrandt,Brian Kelleher,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Women's Flyweight,Ariane da Silva,Casey O'Neill,SUB              Armbar,2,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Flyweight,Tagir Ulanbekov,Cody Durden,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Featherweight,Andre Fili,Lucas Almeida,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 296: Edwards vs. Covington,2023-12-16,Heavyweight,Shamil Gaziev,Martin Buday,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Bantamweight,Song Yadong,Chris Gutierrez,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Light Heavyweight,Khalil Rountree Jr.,Anthony Smith,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Lightweight,Nasrat Haqparast,Jamie Mullarkey,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Bantamweight,Tim Elliott, Sumudaerji,SUB              Arm Triangle,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Middleweight,Andre Muniz,JunYong Park,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Welterweight,Kevin Jousset,Song Kenan,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Flyweight,HyunSung Park,Shannon Ross,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Lightweight,Steve Garcia,Melquizael Costa,KO/TKO              Elbows,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Women's Bantamweight,Luana Santos,Stephanie Egger,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Flyweight,Tatsuro Taira,Carlos Hernandez,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Song vs. Gutierrez,2023-12-09,Women's Strawweight,Talita Alencar,Rayanne dos Santos,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Lightweight,Arman Tsarukyan,Beneil Dariush,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Lightweight,Jalin Turner,King Green,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Bantamweight,Deiveson Figueiredo,Rob Font,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Welterweight,Sean Brady,Kelvin Gastelum,SUB              Kimura,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Lightweight,Joaquim Silva,Clay Guida,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Middleweight,Dustin Stoltzfus,Punahele Soriano,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Women's Bantamweight,Miesha Tate,Julia Avila,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Middleweight,Cody Brundage,Zachary Reese,KO/TKO              Slam,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Lightweight,Drakkar Klose,Joe Solecki,KO/TKO              Slam,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Light Heavyweight,Rodolfo Bellato,Ihor Potieria,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Welterweight,Jared Gooden,Wellington Turman,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dariush vs. Tsarukyan,2023-12-02,Women's Flyweight,Veronica Hardy,Jamey-Lyn Horth,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Middleweight,Brendan Allen,Paul Craig,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Welterweight,Michael Morales,Jake Matthews,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Lightweight,Chase Hooper,Jordan Leavitt,SUB              Rear Naked Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Bantamweight,Payton Talbott,Nick Aguirre,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Women's Strawweight,Amanda Ribas,Luana Pinheiro,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Welterweight,Myktybek Orolbai,Uros Medic,SUB              Neck Crank,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Featherweight,Joanderson Brito,Jonathan Pearce,SUB              Guillotine Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Bantamweight,Jose Johnson,Chad Anheliger,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Middleweight,Christian Leroy Duncan,Denis Tiuliulin,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Heavyweight,Mick Parkin,Caio Machado,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Featherweight,Jeka Saragih,Lucas Alexander,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Women's Bantamweight,Ailin Perez,Lucie Pudilova,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Lightweight,Trey Ogden,Nikolas Motta,Overturned,3,No contest,2025-06-06 18:22:58.060564
+UFC Fight Night: Allen vs. Craig,2023-11-18,Flyweight,Rafael Estevam,Charles Johnson,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Light Heavyweight,Alex Pereira,Jiri Prochazka,KO/TKO              Elbows,2,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Heavyweight,Tom Aspinall,Sergei Pavlovich,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Women's Strawweight,Jessica Andrade,Mackenzie Dern,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,Benoit Saint Denis,Matt Frevola,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Featherweight,Diego Lopes,Pat Sabatini,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Flyweight,Steve Erceg,Alessandro Costa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Women's Strawweight,Loopy Godinez,Tabatha Ricci,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,Mateusz Rebecki,Roosevelt Roberts,SUB              Armbar,1,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,Nazim Sadykhov,Viacheslav Borshchev,M-DEC,3,Draw,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,Jared Gordon,Mark Madsen,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Catch Weight,John Castaneda,Kyung Ho Kang,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Flyweight,Joshua Van,Kevin Borjas,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 295: Prochazka vs. Pereira,2023-11-11,Featherweight,Jamall Emmers,Dennis Buzukja,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Heavyweight,Jailton Almeida,Derrick Lewis,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Welterweight,Nicolas Dalby,Gabriel Bonfim,KO/TKO              Knees,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Heavyweight,Rodrigo Nascimento,Don'Tale Mayes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Middleweight,Caio Borralho,Abus Magomedov,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Catch Weight,Elves Brener,Kaynan Kruschewsky,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Welterweight,Rinat Fakhretdinov,Elizeu Zaleski dos Santos,M-DEC,3,Draw,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Light Heavyweight,Vitor Petrino,Modestas Bukauskas,KO/TKO              Punch,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Women's Strawweight,Angela Hill,Denise Gomes,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Women's Strawweight,Eduarda Moura,Montserrat Conejo Ruiz,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Almeida vs. Lewis,2023-11-04,Lightweight,Marc Diakiese,Kaue Fernandes,S-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Lightweight,Islam Makhachev,Alexander Volkanovski,KO/TKO              Kick,1,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,Khamzat Chimaev,Kamaru Usman,M-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Light Heavyweight,Magomed Ankalaev,Johnny Walker,CNC,1,No contest,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,Ikram Aliskerov,Warlley Alves,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Bantamweight,Said Nurmagomedov,Muin Gafurov,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Flyweight,Muhammad Mokaev,Tim Elliott,SUB              Arm Triangle,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Lightweight,Trevor Peek,Mohammad Yahya,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Bantamweight,Javid Basharat,Victor Henry,CNC,2,No contest,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,Sedriques Dumas,Abu Azaitar,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Lightweight,Mike Breeden,Anshul Jubli,KO/TKO              Punch,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Featherweight,Muhammad Naimov,Nathaniel Wood,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Women's Strawweight,Viktoriia Dudakova,Jinh Yu Frey,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,Shara Magomedov,Bruno Silva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Featherweight,Edson Barboza,Sodiq Yusuff,U-DEC,5,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Women's Flyweight,Viviane Araujo,Jennifer Maia,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Bantamweight,Jonathan Martinez,Adrian Yanez,KO/TKO              Kicks,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Middleweight,Michel Pereira,Andre Petroski,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Bantamweight,Christian Rodriguez,Cameron Saaiman,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Featherweight,Darren Elkins,TJ Brown,SUB              Rear Naked Choke,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Women's Bantamweight,Tainara Lisboa,Ravena Oliveira,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Lightweight,Terrance McKinney,Brendon Marotte,KO/TKO              Knee,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Women's Bantamweight,Melissa Mullins,Irina Alekseeva,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Bantamweight,Chris Gutierrez, Alatengheili,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Yusuff vs. Barboza,2023-10-14,Women's Strawweight,Emily Ducote,Ashley Yoder,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Lightweight,King Green,Grant Dawson,KO/TKO              Punch,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Middleweight,Joe Pyfer,Abdul Razak Alhassan,SUB              Arm Triangle,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Welterweight,Joaquin Buckley,Alex Morono,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Lightweight,Drew Dober,Ricky Glenn,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Featherweight,Bill Algeo,Alexander Hernandez,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Women's Strawweight,Karolina Kowalkiewicz,Diana Belbita,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Flyweight,Nate Maness,Mateus Mendonca,KO/TKO              Punches,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Women's Strawweight,Vanessa Demopoulos,Kanako Murata,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Bantamweight,Aoriqileng,Johnny Munoz,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Dawson vs. Green,2023-10-07,Women's Flyweight,JJ Aldrich,Montana De La Rosa,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Lightweight,Mateusz Gamrot,Rafael Fiziev,KO/TKO,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Featherweight,Bryce Mitchell,Dan Ige,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Women's Strawweight,Marina Rodriguez,Michelle Waterson-Gomez,KO/TKO              Punches,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Welterweight,Bryan Battle,AJ Fletcher,SUB              Rear Naked Choke,2,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Featherweight,Charles Jourdain,Ricardo Ramos,SUB              Guillotine Choke,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Bantamweight,Dan Argueta,Miles Johns,Overturned,3,No contest,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Welterweight,Tim Means,Andre Fialho,KO/TKO              Punches,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Middleweight,Cody Brundage,Jacob Malkoun,DQ,1,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Heavyweight,Mohammed Usman,Jake Collier,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Women's Strawweight,Mizuki,Hannah Goldy,U-DEC,3,fighter1,2025-06-06 18:22:58.060564
+UFC Fight Night: Fiziev vs. Gamrot,2023-09-23,Women's Bantamweight,Montserrat Rendon,Tamires Vidal,S-DEC,3,fighter1,2025-06-06 18:22:58.060564

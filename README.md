@@ -7,6 +7,10 @@ Acest model are ca scop prezicerea meciurilor de MMA din cadrul UFC. Acest proie
 - model cached pentru a evita timpul lung de așteptare
 - decision analysis: ne arată criteriile după care s-a luat modelul pentru a lua decizia
 
+## Video Demo
+
+[link youtube](https://www.youtube.com/watch?v=BmU4HpJyMO4)
+
 ## Data set
 
 - /data/complete_ufc_data.csv  date despre meciurile UFC din ultimii 31 de ani (din 1994)
@@ -58,9 +62,3 @@ python instant_predict.py --setup
 ```
 
 ## made by mihai * (bujor + buga)
-
-## To do
-
-- improve model [x]
-- cleanup data files 
-- notebook for presentation
